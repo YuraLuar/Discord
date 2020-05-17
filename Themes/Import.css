@@ -7,40 +7,19 @@
 
 /* ROOT */
 :root {
-  /* COLORS */
-  --themeColor1: #8D474B;
-  --themeColor2: #383445;
 
-  /* CUSTOM FONT */
-  --customFont: 'Quicksand';
-
-  /* HOME BUTTON */
-  --homeImage: url('https://cdn.discordapp.com/attachments/706165692608806933/708809414437634089/YinYangCats.gif');
-  --homeImageSize: cover;
-
-  /* BACKGROUND */
-  --backgroundColor: rgba(0, 0, 0, 1);
+  /* BACKGROUND AND DARK OVERLAYS */
   --backgroundImage: transparent !important;
-  --backgroundPosition: center;
-  --backgroundSize: cover;
-  --backgroundRepeat: no-repeat;
-  --backgroundBlur: 0px;
-  --backgroundOpacity: 0;
+  --ModalOverlay: rgba(0, 0, 0, 0.5);
+  --DarkOverlay: rgba(1, 1, 1, 0.4);
+  --SettingsDarkOverlay1: rgba(0, 0, 0, 0.85);
+  --SettingsDarkOverlay2: rgba(0, 0, 0, 0.75);
+  --YuraBadge: url('https://cdn.discordapp.com/attachments/706165692608806933/708809414437634089/YinYangCats.gif');
 
   /* CODE BLOCKS */
   --backgroundCode: rgba(0, 0, 0, 0.5);
   --backgroundName: rgba(0, 0, 0, 0.5);
-
-  /* CUSTOMS */
-  --ProfileActivityImage: url('https://cdn.discordapp.com/attachments/706165692608806933/708814417042866196/GamesIcons.png');
-  --ModalOverlay: rgba(0, 0, 0, 0.5);
-  --SpotifyGreen: #008000;
-  --StreamPurple: #800080;
-  --DarkOverlay: rgba(1, 1, 1, 0.4);
-  --FolderImage: url('https://cdn.discordapp.com/attachments/706165692608806933/706165846677913680/8D474B_48x48.png');
-  --SettingsDarkOverlay1: rgba(0, 0, 0, 0.85);
-  --SettingsDarkOverlay2: rgba(0, 0, 0, 0.75);
-  --YuraBadge: url('https://cdn.discordapp.com/attachments/706165692608806933/708809414437634089/YinYangCats.gif');}
+}
 /* ROOT */
 
 
