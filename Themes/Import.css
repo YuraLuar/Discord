@@ -186,7 +186,9 @@
 /* SERVER FOLDERS */
 .folder-21wGz3, .folderIconWrapper-226oVY {
   background-color: transparent !important;
-  background-image: var(--FolderImage) !important;}
+  background-image: var(--FolderImage) !important;
+  background-size: cover !important;
+  background-position: center !important;}
 .expandedFolderIconWrapper-1xLaU- {
   display: none;}
 .closedFolderIconWrapper-15K9MK {
